@@ -10,7 +10,12 @@
 #my_answer = your_age>my_age
 #print(my_age,your_age,my_answer)
 
-my_age = 30
-your_age =30
-my_answer = my_age==your_age
-print (my_answer)
+my_age = 36
+your_age =35
+#my_answer = my_age==your_age
+#print (my_answer)
+
+if my_age>your_age:
+    print("i senior you")
+else:
+    print("you senior me")
